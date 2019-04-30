@@ -1,5 +1,6 @@
 # CS229 (Spring 2019)
 Stanford CS229 (Spring 2019) Materials
+http://cs229.stanford.edu
 
 ## List
 - Introduction (lecture1_slide.pdf)
